@@ -116,7 +116,7 @@ const Report2 = () => {
                                     scope="col"
                                     className="text-gray-500 px-2 py-2 text-left text-xs font-medium uppercase tracking-wider"
                                 >
-                                    Area
+                                    Status
                                 </th>
                                 <th
                                     scope="col"
